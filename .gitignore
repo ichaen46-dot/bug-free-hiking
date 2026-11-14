@@ -1,0 +1,5 @@
+data/raw_gpx/*
+!data/raw_gpx/.gitkeep
+data/processed/
+__pycache__/
+.env
